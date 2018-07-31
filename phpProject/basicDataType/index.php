@@ -4,7 +4,7 @@
 
 <head>
 
-<title></title>
+<title>Php Echo example</title>
 
 </head>
 
